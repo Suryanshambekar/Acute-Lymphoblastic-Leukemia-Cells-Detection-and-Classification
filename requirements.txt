@@ -8,3 +8,5 @@ scikit-learn
 kagglehub
 Pillow
 streamlit
+opencv-python-headless
+torch
