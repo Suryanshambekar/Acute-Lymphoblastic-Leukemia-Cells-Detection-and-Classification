@@ -105,14 +105,7 @@ Acute-Lymphoblastic-Leukemia-Cells-Detection-and-Classification/
 └── README.md                   # This file
 ```
 
----
-
-## License
-
-Specify your license here.
-
----
 
 ## Contact
 
-For questions or support, please contact [Your Name or Email].
+For questions or support, please contact Suryansh Ambekar suryanshambekar@gmail.com
