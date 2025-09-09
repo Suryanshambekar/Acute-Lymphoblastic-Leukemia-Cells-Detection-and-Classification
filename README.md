@@ -18,7 +18,7 @@ This project implements a deep learning-based system for detecting and classifyi
 
 The project is deployed on:
 - **Streamlit Cloud**: [https://acute-lymphoblastic-leukemia-cells-detection-and-classification.streamlit.app](https://acute-lymphoblastic-leukemia-cells-detection-and-classification.streamlit.app)
-- 
+  
 ## Installation
 
 ### Prerequisites
